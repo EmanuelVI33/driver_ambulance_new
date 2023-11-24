@@ -15,17 +15,16 @@ class LoginScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final colors = Theme.of(context);
     return Scaffold(
-      body: SafeArea(
-          child: Padding(
-        padding: EdgeInsets.only(top: 10),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
+      body: Stack(children: [
+        Positioned.fill(
+          child: Image.asset(
+            'assets/1.jpg',
+            fit: BoxFit.cover,
+          ),
+        ),
+        Column(
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.network(
-                'https://www.pngkit.com/png/detail/251-2511622_ambulance-drawing-side-view-ambulance-cartoon.png'),
-            SizedBox(
-              height: Dimensions.height20,
-            ),
             Row(
               children: [
                 const Expanded(
@@ -33,19 +32,20 @@ class LoginScreen extends StatelessWidget {
                   padding: EdgeInsets.all(8.0),
                   child: Divider(
                     thickness: 2,
-                    color: AppColors.black,
+                    color: AppColors.white,
                   ),
                 )),
                 BigText(
-                  text: 'Last Minute',
+                  text: 'Swiftcare',
                   size: Dimensions.font20 * 1.8,
+                  color: AppColors.white,
                 ),
                 const Expanded(
                     child: Padding(
                   padding: EdgeInsets.all(8.0),
                   child: Divider(
                     thickness: 2,
-                    color: AppColors.black,
+                    color: Colors.white,
                   ),
                 )),
               ],
@@ -82,8 +82,8 @@ class LoginScreen extends StatelessWidget {
               height: Dimensions.height20,
             ),
           ],
-        ),
-      )),
+        )
+      ]),
     );
   }
 }

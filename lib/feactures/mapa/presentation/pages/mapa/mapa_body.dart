@@ -31,7 +31,7 @@ class MapaBodyState extends ConsumerState<MapaBody> {
   Timer? locationUpdateTimer;
   var data;
   Request? request;
-
+  final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
   MapaBodyState({required this.origenController});
 
   @override
@@ -59,7 +59,7 @@ class MapaBodyState extends ConsumerState<MapaBody> {
     try {
       SSEClient.subscribeToSSE(
           method: SSERequestType.GET,
-          url: 'https://b80c-181-115-209-197.ngrok-free.app/api/accept',
+          url: 'https://0000-181-115-209-197.ngrok-free.app/api/accept',
           header: {
             // "Cookie":
             //     'jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJpYXQiOjE2NDMyMTAyMzEsImV4cCI6MTY0MzgxNTAzMX0.U0aCAM2fKE1OVnGFbgAU_UVBvNwOMMquvPY8QaLD138; Path=/; Expires=Wed, 02 Feb 2022 15:17:11 GMT; HttpOnly; SameSite=Strict',
@@ -75,6 +75,7 @@ class MapaBodyState extends ConsumerState<MapaBody> {
               '--------------------------------------------------------------------------------------');
 
           if (event.data != null) {
+            abrirDrawer();
             final responseMap = requestFromJson(event.data!);
             if (responseMap != null) {
               setState(() {
@@ -129,23 +130,50 @@ class MapaBodyState extends ConsumerState<MapaBody> {
     setState(() {});
   }
 
+  void abrirDrawer() {
+    _scaffoldKey.currentState?.openDrawer();
+  }
+
+  String switchText = 'Desactivado';
+  bool isSwitched = true;
+
   @override
   Widget build(BuildContext context) {
     final rutaPolylines = ref.watch(mapPolylineProvider);
     final polylines = ref.watch(polylineTravelProvider);
-    // if (myPosition != null) {
-    //   ref
-    //       .read(polylineTravelProvider.notifier)
-    //       .addPolyline(myPosition!, const LatLng(-17.780153, -63.180051));
-    // }
-    // final myLocation = ref.watch(myLocationProvider);
+    if (myPosition != null && request != null) {
+      final lat = double.parse(request!.message.latScene);
+      final log = double.parse(request!.message.lngScene);
+      ref
+          .read(polylineTravelProvider.notifier)
+          .addPolyline(myPosition!, LatLng(lat, log));
+    }
+    //final myLocation = ref.watch(myLocationProvider);
 
     return Scaffold(
+      key: _scaffoldKey,
       appBar: AppBar(
-        title: const Text("Home"),
+        title: Text("Home"),
+        backgroundColor: Colors.blue, // Cambia el color de fondo del AppBar
+        elevation: 4, // Agrega una sombra al AppBar
+        centerTitle: true, // Centra el título en el AppBar
+        titleTextStyle: const TextStyle(
+          color: Colors.white, // Cambia el color del texto del título
+          fontSize: 20, // Cambia el tamaño del texto del título
+          fontWeight: FontWeight.bold, // Aplica negrita al texto del título
+        ),
+        iconTheme: const IconThemeData(
+          color: Colors
+              .white, // Cambia el color de los iconos (botón de retroceso, por ejemplo)
+        ),
       ),
       body: myPosition == null
-          ? const Center(child: CircularProgressIndicator())
+          ? const Center(
+              child: CircularProgressIndicator(
+                color: Colors.red,
+                strokeWidth: 2,
+              ),
+            )
           : Stack(
               children: [
                 GoogleMap(
@@ -159,48 +187,96 @@ class MapaBodyState extends ConsumerState<MapaBody> {
                       CameraPosition(target: myPosition!, zoom: 14),
                   polylines: {polylines},
                 ),
-                // Positioned.fill(
-                //     child: Align(
-                //         alignment: Alignment.center,
-                //         child: Text(data ?? "No hay"))),
-                Text(data ?? "No hay"),
-                if (request != null)
-                  Positioned.fill(
+                Positioned.fill(
                     child: Align(
-                      alignment: Alignment.center,
-                      child: Column(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          // Muestra la información de la emergencia
-                          EmergencyInfo(request: request!),
-                        ],
-                      ),
-                    ),
-                  ),
+                        alignment: Alignment.center, child: _getMarker())),
               ],
             ),
-      drawer: const NavigationDrawer(
-        children: [
-          Column(
-            children: [
+      drawer: request == null
+          ? const NavigationDrawer(children: [
               CustomCard(
-                text: 'Emergencia asignada',
+                text: 'Esperando emergencia',
                 color: Colors.blue,
               ),
-              SizedBox(height: 20), // Espacio entre la tarjeta y los datos
+              Text("Esperando....")
+            ])
+          : NavigationDrawer(
+              children: [
+                Column(
+                  children: [
+                    CustomCard(
+                      text: 'Emergencia asignada',
+                      color: Colors.blue,
+                    ),
+                    SizedBox(
+                        height: 20), // Espacio entre la tarjeta y los datos
 
-              // Datos de la solicitud
-              RequestInfo(
-                id: 'SOL-1234',
-                description: 'Descripción de la solicitud...',
-                imageUrl:
-                    "https://i.pinimg.com/originals/fd/82/c1/fd82c1116eb734b625552241e00e2a20.png",
-                time: '10:00 AM',
-              ),
-            ],
-          )
-        ],
-      ),
+                    // Datos de la solicitud
+                    RequestInfo(
+                      id: request!.message.nro,
+                      description: request!.message.descripcion,
+                      hospital: request!.message.entityName,
+                      imageUrl: 'assets/7.jpg',
+                      time: request!.message.createAt,
+                    ),
+                    Card(
+                      margin: EdgeInsets.all(16.0),
+                      elevation: 4.0,
+                      child: Padding(
+                        padding: EdgeInsets.all(16.0),
+                        child: Row(
+                          children: [
+                            Expanded(
+                              flex: 2,
+                              child: Text(
+                                'Te encuentras',
+                                style: TextStyle(
+                                  fontSize: 16.0,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                            ),
+                            Expanded(
+                              child: Align(
+                                alignment: Alignment.centerRight,
+                                child: Switch(
+                                  value: isSwitched,
+                                  onChanged: (value) {
+                                    setState(() {
+                                      isSwitched = value;
+                                      switchText =
+                                          isSwitched ? 'Activo' : 'Inactivo';
+                                    });
+                                  },
+                                  activeTrackColor: Colors.yellow,
+                                  activeColor: Colors.orangeAccent,
+                                  inactiveThumbColor: Colors.grey,
+                                  inactiveTrackColor: Colors.grey.shade300,
+                                  materialTapTargetSize:
+                                      MaterialTapTargetSize.shrinkWrap,
+                                ),
+                              ),
+                            ),
+                            SizedBox(width: 10),
+                            Text(
+                              switchText,
+                              style: TextStyle(
+                                fontSize: 16.0,
+                                fontWeight: FontWeight.bold,
+                                color: isSwitched
+                                    ? Colors.green
+                                    : Colors
+                                        .red, // Cambia el color del texto según el estado del Switch
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    )
+                  ],
+                )
+              ],
+            ),
     );
   }
 
@@ -240,16 +316,20 @@ class CustomCard extends StatelessWidget {
   final String text;
   final Color color;
 
-  const CustomCard({required this.text, required this.color});
+  const CustomCard({Key? key, required this.text, required this.color})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Card(
       color: color,
-      elevation: 4.0,
-      margin: EdgeInsets.all(16.0),
+      elevation: 6.0,
+      margin: const EdgeInsets.all(16.0),
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(12.0),
+      ),
       child: Padding(
-        padding: EdgeInsets.all(16.0),
+        padding: const EdgeInsets.all(16.0),
         child: Text(
           text,
           style: const TextStyle(
@@ -267,41 +347,72 @@ class RequestInfo extends StatelessWidget {
   final String id;
   final String description;
   final String imageUrl;
-  final String time;
+  final DateTime time;
+  final String hospital;
 
   const RequestInfo({
     required this.id,
     required this.description,
     required this.imageUrl,
     required this.time,
+    required this.hospital,
   });
 
   @override
   Widget build(BuildContext context) {
     return Card(
-      margin: EdgeInsets.symmetric(horizontal: 16.0),
+      margin: const EdgeInsets.symmetric(horizontal: 16.0),
       elevation: 4.0,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(12.0),
+      ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           ListTile(
-            title: Text('Numero de solicitud: $id'),
+            title: Text('Número de solicitud: $id'),
             subtitle: Text('Tiempo: $time'),
           ),
           Padding(
-            padding: EdgeInsets.all(16.0),
+            padding: const EdgeInsets.all(16.0),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                const Text('Descripción:',
-                    style: TextStyle(fontWeight: FontWeight.bold)),
-                Text(description),
-                const SizedBox(height: 10),
-                Image.network(
-                  imageUrl,
-                  height: 400,
-                  width: 400,
-                ), // Aquí puedes cargar la imagen desde la URL
+                const Text(
+                  'Descripción:',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 16.0,
+                  ),
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  description,
+                  style: const TextStyle(fontSize: 14.0),
+                ),
+                const SizedBox(height: 16),
+                const Text(
+                  'Hospital:',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 16.0,
+                  ),
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  hospital,
+                  style: const TextStyle(fontSize: 14.0),
+                ),
+                const SizedBox(height: 16),
+                ClipRRect(
+                  borderRadius: BorderRadius.circular(12.0),
+                  child: Image.asset(
+                    imageUrl,
+                    height: 300,
+                    width: double.infinity,
+                    fit: BoxFit.cover,
+                  ),
+                ),
               ],
             ),
           ),

@@ -6,30 +6,27 @@ import '../../mapa/presentation/pages/login/login_screen.dart';
 import '../../mapa/presentation/pages/mapa/mapa_page.dart';
 import '../../mapa/presentation/pages/solicitud/solicitud_screen.dart';
 
-class RouterApp {
-  final router = GoRouter(
-    initialLocation: '/',
-    routes: [
-      GoRoute(
-          path: '/',
-          builder: (context, state) => const MapaPage(),
-          routes: [
-            GoRoute(
-              path: 'mapa',
-              name: MapaPage.routeName,
-              builder: (context, state) => const MapaPage(),
-            ),
-            GoRoute(
-              path: 'home',
-              name: HomePage.routeName,
-              builder: (context, state) => const HomePage(),
-            ),
-            GoRoute(
-              path: 'login_page',
-              name: LogIn.routeName,
-              builder: (context, state) => LogIn(),
-            )
-          ]),
-    ],
-  );
-}
+final appRouter = GoRouter(
+  initialLocation: '/',
+  routes: [
+    GoRoute(
+      path: '/',
+      builder: (context, state) => const LoginScreen(),
+    ),
+    GoRoute(
+      path: '/mapa',
+      name: MapaPage.routeName,
+      builder: (context, state) => const MapaPage(),
+    ),
+    GoRoute(
+      path: '/home',
+      name: HomePage.routeName,
+      builder: (context, state) => const HomePage(),
+    ),
+    GoRoute(
+      path: '/login_page',
+      name: LogIn.routeName,
+      builder: (context, state) => LogIn(),
+    )
+  ],
+);

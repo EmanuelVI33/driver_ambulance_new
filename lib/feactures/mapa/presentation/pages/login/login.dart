@@ -21,44 +21,44 @@ class LogIn extends StatelessWidget {
   Widget build(BuildContext context) {
     final colors = Theme.of(context);
     return Scaffold(
-      body: SafeArea(
-        child: Padding(
+      body: Stack(children: [
+        Positioned.fill(
+          child: Image.asset(
+            'assets/2.jpg',
+            fit: BoxFit.cover,
+          ),
+        ),
+        Padding(
           padding: EdgeInsets.fromLTRB(Dimensions.width15, Dimensions.height10,
               Dimensions.width15, Dimensions.height30),
           child: Column(
             children: [
               Expanded(
                 child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.center,
-                  mainAxisAlignment: MainAxisAlignment.start,
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Expanded(
-                        child: Image.network(
-                            'https://www.pngkit.com/png/detail/251-2511622_ambulance-drawing-side-view-ambulance-cartoon.png')),
-                    SizedBox(
-                      height: Dimensions.height15,
-                    ),
-
                     Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         const Expanded(
                             child: Padding(
                           padding: EdgeInsets.all(8.0),
                           child: Divider(
                             thickness: 2,
-                            color: AppColors.black,
+                            color: AppColors.white,
                           ),
                         )),
                         BigText(
-                          text: 'Last Minute',
+                          text: 'Swiftcare',
                           size: Dimensions.font20 * 1.8,
+                          color: AppColors.white,
                         ),
                         const Expanded(
                             child: Padding(
                           padding: EdgeInsets.all(8.0),
                           child: Divider(
                             thickness: 2,
-                            color: AppColors.black,
+                            color: AppColors.white,
                           ),
                         )),
                       ],
@@ -98,7 +98,13 @@ class LogIn extends StatelessWidget {
                                 border: Border.all(
                                     color: colors.primaryColor, width: 2)),
                             child: Center(
-                              child: Text('numero'),
+                              child: Text(
+                                'Telefono',
+                                style: TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 20,
+                                    fontWeight: FontWeight.bold),
+                              ),
                             ),
                           ),
                         ),
@@ -109,6 +115,7 @@ class LogIn extends StatelessWidget {
                       BigText(
                         text: 'Introduzca su numero',
                         fontWeight: FontWeight.bold,
+                        color: Colors.white,
                       ),
                       SizedBox(
                         height: Dimensions.height20,
@@ -157,7 +164,7 @@ class LogIn extends StatelessWidget {
             ],
           ),
         ),
-      ),
+      ]),
     );
   }
 }
@@ -198,7 +205,7 @@ class Prueba extends StatelessWidget {
             radius: Dimensions.radius20 * 2,
             on_pressed: () {},
             text: 'Send Otp',
-            color: AppColors.pink,
+            color: AppColors.black,
           ),
         ],
       ),
