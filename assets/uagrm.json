@@ -1,0 +1,3108 @@
+{
+  "features": [
+    {
+      "attributes": {
+        "FID": 0,
+        "Descripcio": "ADMINISTRACION PREDIOS DEL CAMPUS UNIVERSITARIOS",
+        "CodEdif": "9003",
+        "Latitud": -17.777269,
+        "Longitud": -63.190394,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "ADMI. CAMPUS",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190393999999998,
+        "y": -17.777269
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1,
+        "Descripcio": "CANCHA 1",
+        "CodEdif": "294",
+        "Latitud": -17.776376,
+        "Longitud": -63.197387,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "CANCHA 1",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197386999999999,
+        "y": -17.776375999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2,
+        "Descripcio": "CANCHA 2",
+        "CodEdif": "294",
+        "Latitud": -17.776511,
+        "Longitud": -63.19741,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "CANCHA 2",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197409999999998,
+        "y": -17.776510999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 3,
+        "Descripcio": "CLINICA ODONTOLOGICA",
+        "CodEdif": "91",
+        "Latitud": -17.777989,
+        "Longitud": -63.190801,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "CLINICA ODONTOLOGICA",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190801,
+        "y": -17.777989000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 4,
+        "Descripcio": "COMEDOR UNICERSITARIO",
+        "CodEdif": "292",
+        "Latitud": -17.775615,
+        "Longitud": -63.198539,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "COMEDOR UNICERSITARI",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.198538999999997,
+        "y": -17.775614999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 5,
+        "Descripcio": "DIRECCION DE TECNOLOGIAS DE LA INF, Y COMUNICACIÓN. DTIC",
+        "CodEdif": "9001",
+        "Latitud": -17.777146,
+        "Longitud": -63.190794,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "DTIC",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190793999999997,
+        "y": -17.777145999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 6,
+        "Descripcio": "ESTACIONAMIENTO DE LA FCET",
+        "CodEdif": "95",
+        "Latitud": -17.778404,
+        "Longitud": -63.191101,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "ESTACIO. FCET",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191101000000003,
+        "y": -17.778403999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 7,
+        "Descripcio": "ESTACIONAMIENTO FCET",
+        "CodEdif": " ",
+        "Latitud": -17.775043,
+        "Longitud": -63.1956,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "ESTACIONA. FCET",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195599999999999,
+        "y": -17.775043
+      }
+    },
+    {
+      "attributes": {
+        "FID": 8,
+        "Descripcio": "ESTACIONAMIENTO GENERAL",
+        "CodEdif": "294",
+        "Latitud": -17.776145,
+        "Longitud": -63.197362,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "ESTACIO GENERAL",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197361999999998,
+        "y": -17.776145
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9,
+        "Descripcio": "FEDERACION UNIVERSITARIA DE AUXILIARES DE DOCENCIA",
+        "CodEdif": "9002",
+        "Latitud": -17.777362,
+        "Longitud": -63.190439,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "FUAD",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190438999999998,
+        "y": -17.777362
+      }
+    },
+    {
+      "attributes": {
+        "FID": 10,
+        "Descripcio": "Modulo 117",
+        "CodEdif": "117",
+        "Latitud": -17.777068,
+        "Longitud": -63.191645,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 117",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191645000000001,
+        "y": -17.777068
+      }
+    },
+    {
+      "attributes": {
+        "FID": 11,
+        "Descripcio": "Modulo 122",
+        "CodEdif": "122",
+        "Latitud": -17.778244,
+        "Longitud": -63.190365,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 122",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190365,
+        "y": -17.778244000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 12,
+        "Descripcio": "Modulo 123",
+        "CodEdif": "123",
+        "Latitud": -17.778438,
+        "Longitud": -63.190318,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 123",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190317999999998,
+        "y": -17.778438000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 13,
+        "Descripcio": "Modulo 124",
+        "CodEdif": "124",
+        "Latitud": -17.778474,
+        "Longitud": -63.190523,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 124",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190522999999999,
+        "y": -17.778473999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 14,
+        "Descripcio": "Modulo 125",
+        "CodEdif": "125",
+        "Latitud": -17.778658,
+        "Longitud": -63.190463,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 125",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190463000000001,
+        "y": -17.778658
+      }
+    },
+    {
+      "attributes": {
+        "FID": 15,
+        "Descripcio": "Modulo 126",
+        "CodEdif": "126",
+        "Latitud": -17.77808,
+        "Longitud": -63.19108,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 126",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191079999999999,
+        "y": -17.778079999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 16,
+        "Descripcio": "Modulo 127",
+        "CodEdif": "127",
+        "Latitud": -17.778224,
+        "Longitud": -63.190798,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 127",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190798000000001,
+        "y": -17.778224000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 17,
+        "Descripcio": "Modulo 128",
+        "CodEdif": "128",
+        "Latitud": -17.777548,
+        "Longitud": -63.190964,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 128",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190964000000001,
+        "y": -17.777547999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 18,
+        "Descripcio": "Modulo 145",
+        "CodEdif": "145",
+        "Latitud": -17.778875,
+        "Longitud": -63.190396,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 145",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190396,
+        "y": -17.778874999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 19,
+        "Descripcio": "Modulo 146",
+        "CodEdif": "146",
+        "Latitud": -17.777198,
+        "Longitud": -63.191485,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 146",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191485,
+        "y": -17.777197999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 20,
+        "Descripcio": "Modulo 150",
+        "CodEdif": "150",
+        "Latitud": -17.776531,
+        "Longitud": -63.190607,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 150",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190607,
+        "y": -17.776530999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 21,
+        "Descripcio": "Modulo 151",
+        "CodEdif": "151",
+        "Latitud": -17.777867,
+        "Longitud": -63.19161,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 151",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191609999999997,
+        "y": -17.777867000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 22,
+        "Descripcio": "Modulo 153",
+        "CodEdif": "153",
+        "Latitud": -17.777421,
+        "Longitud": -63.191203,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 153",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191203000000002,
+        "y": -17.777421
+      }
+    },
+    {
+      "attributes": {
+        "FID": 23,
+        "Descripcio": "Modulo 165",
+        "CodEdif": "165",
+        "Latitud": -17.776869,
+        "Longitud": -63.191178,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 165",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191178000000001,
+        "y": -17.776869000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 24,
+        "Descripcio": "Modulo 175",
+        "CodEdif": "175",
+        "Latitud": -17.775502,
+        "Longitud": -63.191272,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 175",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191271999999998,
+        "y": -17.775501999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 25,
+        "Descripcio": "Modulo 212",
+        "CodEdif": "212",
+        "Latitud": -17.775594,
+        "Longitud": -63.193736,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 212",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193736000000001,
+        "y": -17.775594000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 26,
+        "Descripcio": "Modulo 213",
+        "CodEdif": "213",
+        "Latitud": -17.776334,
+        "Longitud": -63.193672,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 213",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193671999999999,
+        "y": -17.776333999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 27,
+        "Descripcio": "Modulo 214",
+        "CodEdif": "214",
+        "Latitud": -17.776667,
+        "Longitud": -63.193803,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 214",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193803000000003,
+        "y": -17.776667
+      }
+    },
+    {
+      "attributes": {
+        "FID": 28,
+        "Descripcio": "Modulo 224",
+        "CodEdif": "224",
+        "Latitud": -17.775246,
+        "Longitud": -63.194516,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 224",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194516,
+        "y": -17.775245999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 29,
+        "Descripcio": "Modulo 225",
+        "CodEdif": "225",
+        "Latitud": -17.775587,
+        "Longitud": -63.194741,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 225",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194741,
+        "y": -17.775587000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 30,
+        "Descripcio": "Modulo 228",
+        "CodEdif": "228",
+        "Latitud": -17.776881,
+        "Longitud": -63.194884,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 228",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194884000000002,
+        "y": -17.776880999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 31,
+        "Descripcio": "Modulo 229",
+        "CodEdif": "229",
+        "Latitud": -17.776992,
+        "Longitud": -63.194475,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 229",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194474999999997,
+        "y": -17.776992
+      }
+    },
+    {
+      "attributes": {
+        "FID": 32,
+        "Descripcio": "Modulo 233",
+        "CodEdif": "233",
+        "Latitud": -17.774549,
+        "Longitud": -63.195329,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 233",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195329000000001,
+        "y": -17.774549
+      }
+    },
+    {
+      "attributes": {
+        "FID": 33,
+        "Descripcio": "Modulo 236",
+        "CodEdif": "236",
+        "Latitud": -17.776487,
+        "Longitud": -63.195077,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 236",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195076999999998,
+        "y": -17.776486999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 34,
+        "Descripcio": "Modulo 244",
+        "CodEdif": "244",
+        "Latitud": -17.77545,
+        "Longitud": -63.195543,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 244",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195543000000001,
+        "y": -17.775449999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 35,
+        "Descripcio": "Modulo 246",
+        "CodEdif": "246",
+        "Latitud": -17.776925,
+        "Longitud": -63.195924,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 246",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195923999999998,
+        "y": -17.776924999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 36,
+        "Descripcio": "Modulo 247",
+        "CodEdif": "247",
+        "Latitud": -17.777072,
+        "Longitud": -63.195956,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 247",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195956000000002,
+        "y": -17.777072
+      }
+    },
+    {
+      "attributes": {
+        "FID": 37,
+        "Descripcio": "Modulo 255",
+        "CodEdif": "255",
+        "Latitud": -17.776116,
+        "Longitud": -63.196554,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 255",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196553999999999,
+        "y": -17.776115999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 38,
+        "Descripcio": "Modulo 256",
+        "CodEdif": "256",
+        "Latitud": -17.776314,
+        "Longitud": -63.196269,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 256",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196269000000001,
+        "y": -17.776313999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 39,
+        "Descripcio": "Modulo 264",
+        "CodEdif": "264",
+        "Latitud": -17.77633,
+        "Longitud": -63.196951,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 264",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196950999999999,
+        "y": -17.776330000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 40,
+        "Descripcio": "Modulo 265",
+        "CodEdif": "265",
+        "Latitud": -17.776681,
+        "Longitud": -63.196732,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 265",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196731999999997,
+        "y": -17.776681
+      }
+    },
+    {
+      "attributes": {
+        "FID": 41,
+        "Descripcio": "Modulo 283",
+        "CodEdif": "283",
+        "Latitud": -17.776046,
+        "Longitud": -63.198198,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 283",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.198197999999998,
+        "y": -17.776046000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 42,
+        "Descripcio": "Modulo 284",
+        "CodEdif": "284",
+        "Latitud": -17.77628,
+        "Longitud": -63.19812,
+        "Grupo": "Aulas y Laboratorios",
+        "Sigla": "Modulo 284",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.198120000000003,
+        "y": -17.77628
+      }
+    },
+    {
+      "attributes": {
+        "FID": 43,
+        "Descripcio": "VENTANILLAS AUXILIARES",
+        "CodEdif": "9001",
+        "Latitud": -17.777284,
+        "Longitud": -63.190729,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "VENTANILLAS AUXILIAR",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190728999999997,
+        "y": -17.777284000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 44,
+        "Descripcio": "VICERRECTORADO",
+        "CodEdif": "90",
+        "Latitud": -17.778333,
+        "Longitud": -63.191472,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "VICERRECTORADO",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191471999999997,
+        "y": -17.778333
+      }
+    },
+    {
+      "attributes": {
+        "FID": 45,
+        "Descripcio": "Decanatura FINOR",
+        "CodEdif": " ",
+        "Latitud": -17.33861,
+        "Longitud": -63.269031,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Dec. FINOR",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.269030999999998,
+        "y": -17.338609999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 46,
+        "Descripcio": "Carrera de Ciencias de la Educación",
+        "CodEdif": " ",
+        "Latitud": -17.338454,
+        "Longitud": -63.268856,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cs de la Educacion",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.268856,
+        "y": -17.338453999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 47,
+        "Descripcio": "Carrera de Contaduría Pública",
+        "CodEdif": " ",
+        "Latitud": -17.338461,
+        "Longitud": -63.268878,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cont. Pública",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.268878000000001,
+        "y": -17.338460999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 48,
+        "Descripcio": "Carrera de Derecho",
+        "CodEdif": " ",
+        "Latitud": -17.338737,
+        "Longitud": -63.269214,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Derecho",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.269213999999998,
+        "y": -17.338736999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 49,
+        "Descripcio": "Carrera de Enfermería",
+        "CodEdif": " ",
+        "Latitud": -17.33825,
+        "Longitud": -63.269033,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Enfermería",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.269033,
+        "y": -17.338249999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 50,
+        "Descripcio": "Carrera de Ingeniería Comercial",
+        "CodEdif": " ",
+        "Latitud": -17.352313,
+        "Longitud": -63.263406,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Comercial",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.263406000000003,
+        "y": -17.352312999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 51,
+        "Descripcio": "Carrera de Ingeniería Industrial",
+        "CodEdif": " ",
+        "Latitud": -17.339023,
+        "Longitud": -63.26884,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Industrial",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.268839999999997,
+        "y": -17.339023000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 52,
+        "Descripcio": "Carrera de Ingeniería Petrolera",
+        "CodEdif": " ",
+        "Latitud": -17.338388,
+        "Longitud": -63.267917,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Petrolera",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.267916999999997,
+        "y": -17.338387999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 53,
+        "Descripcio": "Carrera de Ingeniería en Sistemas",
+        "CodEdif": " ",
+        "Latitud": -17.338608,
+        "Longitud": -63.268046,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. en Sistema",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.268045999999998,
+        "y": -17.338608000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 54,
+        "Descripcio": "Carrera de Medicina",
+        "CodEdif": " ",
+        "Latitud": -17.339115,
+        "Longitud": -63.269001,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Medicina",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.269001000000003,
+        "y": -17.339115
+      }
+    },
+    {
+      "attributes": {
+        "FID": 55,
+        "Descripcio": "Carrera de Medicina Veterinaria y Zootecnia",
+        "CodEdif": " ",
+        "Latitud": -17.338941,
+        "Longitud": -63.268679,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Med. Veterinaria",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.268678999999999,
+        "y": -17.338940999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 56,
+        "Descripcio": "Decanatura\u00A0Facultad Integral de los Valles Cruceños",
+        "CodEdif": " ",
+        "Latitud": -18.486226,
+        "Longitud": -64.100892,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Dec. FIVC",
+        "Localidad": "Vallegrande"
+      },
+      "geometry": {
+        "x": -64.100892000000002,
+        "y": -18.486225999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 57,
+        "Descripcio": "Carrera de Contaduría Pública",
+        "CodEdif": " ",
+        "Latitud": -18.48632,
+        "Longitud": -64.100708,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cont. Pública",
+        "Localidad": "Vallegrande"
+      },
+      "geometry": {
+        "x": -64.100707999999997,
+        "y": -18.486319999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 58,
+        "Descripcio": "Carrera de Ingeniería Agropecuaria",
+        "CodEdif": " ",
+        "Latitud": -18.486524,
+        "Longitud": -64.101091,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Agro Agropecuaria",
+        "Localidad": "Vallegrande"
+      },
+      "geometry": {
+        "x": -64.101090999999997,
+        "y": -18.486523999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 59,
+        "Descripcio": "Carrera de Ingeniería en Sistemas",
+        "CodEdif": " ",
+        "Latitud": -18.48643,
+        "Longitud": -64.100775,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. en Sistema",
+        "Localidad": "Vallegrande"
+      },
+      "geometry": {
+        "x": -64.100774999999999,
+        "y": -18.486429999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 60,
+        "Descripcio": "Decanatura Facultad Politécnica",
+        "CodEdif": " ",
+        "Latitud": -17.775377,
+        "Longitud": -63.194199,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca Fac. Politécnica",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194198999999998,
+        "y": -17.775376999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 61,
+        "Descripcio": "Carrera de Construcciones Civiles",
+        "CodEdif": " ",
+        "Latitud": -17.775442,
+        "Longitud": -63.19377,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Construc. Civiles",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193770000000001,
+        "y": -17.775442000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 62,
+        "Descripcio": "Carrera de Electricidad Industrial",
+        "CodEdif": " ",
+        "Latitud": -17.775148,
+        "Longitud": -63.193778,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Elect. Industrial",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193778000000002,
+        "y": -17.775148000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 63,
+        "Descripcio": "Carrera de Electrónica",
+        "CodEdif": " ",
+        "Latitud": -17.775702,
+        "Longitud": -63.193775,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Electrónica",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193775000000002,
+        "y": -17.775701999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 64,
+        "Descripcio": "Carrera de Ingeniería en Agrimensura",
+        "CodEdif": " ",
+        "Latitud": -17.775624,
+        "Longitud": -63.193756,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. en Agrimensura",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193756,
+        "y": -17.775624000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 65,
+        "Descripcio": "Carrera de Ingeniería en Materiales",
+        "CodEdif": " ",
+        "Latitud": -17.775225,
+        "Longitud": -63.194125,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. en Materiales",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194125,
+        "y": -17.775224999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 66,
+        "Descripcio": "Carrera de Ingeniería en Metalurgia",
+        "CodEdif": " ",
+        "Latitud": -17.775225,
+        "Longitud": -63.194125,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. en Metalurgica",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194125,
+        "y": -17.775224999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 67,
+        "Descripcio": "Carrera de Licenciatura en Ofimática",
+        "CodEdif": " ",
+        "Latitud": -17.775465,
+        "Longitud": -63.193801,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Lic. En Ofimatica",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193801000000001,
+        "y": -17.775465000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 68,
+        "Descripcio": "Carrera de Mecánica General",
+        "CodEdif": " ",
+        "Latitud": -17.775509,
+        "Longitud": -63.194117,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Mecánica General",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194116999999999,
+        "y": -17.775509
+      }
+    },
+    {
+      "attributes": {
+        "FID": 69,
+        "Descripcio": "Unidades Académica El Torno",
+        "CodEdif": " ",
+        "Latitud": -17.981956,
+        "Longitud": -63.373469,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Unid. Académica El Torno",
+        "Localidad": "El Torno"
+      },
+      "geometry": {
+        "x": -63.373469,
+        "y": -17.981956
+      }
+    },
+    {
+      "attributes": {
+        "FID": 70,
+        "Descripcio": "Unidades Académica Puerto Suarez",
+        "CodEdif": " ",
+        "Latitud": -18.99419,
+        "Longitud": -57.781132,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Unid. Académica Pto. Suarez",
+        "Localidad": "Puerto Suarez"
+      },
+      "geometry": {
+        "x": -57.781131999999999,
+        "y": -18.99419
+      }
+    },
+    {
+      "attributes": {
+        "FID": 71,
+        "Descripcio": "Decanatura Facultad de Ciencias Veterinarias",
+        "CodEdif": " ",
+        "Latitud": -17.776849,
+        "Longitud": -63.194832,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Decanatura Fac. Cs. Vete.",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194831999999998,
+        "y": -17.776848999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 72,
+        "Descripcio": "Carrera de Medicina Veterinaria y Zootecnia",
+        "CodEdif": " ",
+        "Latitud": -17.776849,
+        "Longitud": -63.194832,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Medicina Veteria",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194831999999998,
+        "y": -17.776848999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 73,
+        "Descripcio": "Decanatura Facultad de Humanidades",
+        "CodEdif": " ",
+        "Latitud": -17.774657,
+        "Longitud": -63.196569,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca Fac. de Humanidades",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196568999999997,
+        "y": -17.774657000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 74,
+        "Descripcio": "Carrera de Actividad Física",
+        "CodEdif": " ",
+        "Latitud": -17.774743,
+        "Longitud": -63.196738,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Actividad Físic",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196738000000003,
+        "y": -17.774743000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 75,
+        "Descripcio": "Carrera de Ciencias de la Comunicación",
+        "CodEdif": " ",
+        "Latitud": -17.774733,
+        "Longitud": -63.196552,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr. Cs. de la Comunicación",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196551999999997,
+        "y": -17.774733000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 76,
+        "Descripcio": "Carrera de Ciencias de la Educación",
+        "CodEdif": " ",
+        "Latitud": -17.774749,
+        "Longitud": -63.196881,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cs. de la Educacion",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196880999999998,
+        "y": -17.774749
+      }
+    },
+    {
+      "attributes": {
+        "FID": 77,
+        "Descripcio": "Carrera de Gestión del Turismo",
+        "CodEdif": " ",
+        "Latitud": -17.774485,
+        "Longitud": -63.196777,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Gest. del Turismo",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196776999999997,
+        "y": -17.774484999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 78,
+        "Descripcio": "Carrera de Lenguas Modernas y Filología Hispánica",
+        "CodEdif": " ",
+        "Latitud": -17.782313,
+        "Longitud": -63.179364,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Lenguas Moderna",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.179364,
+        "y": -17.782312999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 79,
+        "Descripcio": "Carrera de Psicología",
+        "CodEdif": " ",
+        "Latitud": -17.774738,
+        "Longitud": -63.196543,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Psicología",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196542999999998,
+        "y": -17.774737999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 80,
+        "Descripcio": "Carrera de Sociología",
+        "CodEdif": " ",
+        "Latitud": -17.775046,
+        "Longitud": -63.196938,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Sociología",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196938000000003,
+        "y": -17.775046
+      }
+    },
+    {
+      "attributes": {
+        "FID": 81,
+        "Descripcio": "Decanatura Facultad de Ciencias Agrícolas",
+        "CodEdif": " ",
+        "Latitud": -17.699148,
+        "Longitud": -63.147904,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca Fac. de Cs. Agricolas",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.147903999999997,
+        "y": -17.699148000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 82,
+        "Descripcio": "Carrera de Biología",
+        "CodEdif": " ",
+        "Latitud": -17.698152,
+        "Longitud": -63.147582,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Biología",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.147581500000001,
+        "y": -17.698151599999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 83,
+        "Descripcio": "Carrera de Ciencias Ambientales",
+        "CodEdif": " ",
+        "Latitud": -17.698065,
+        "Longitud": -63.147545,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cs. Ambiental",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.147545200000003,
+        "y": -17.698065199999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 84,
+        "Descripcio": "Carrera de Ingeniería Agronómica",
+        "CodEdif": " ",
+        "Latitud": -17.69821,
+        "Longitud": -63.14759,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Agronomica",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.147589500000002,
+        "y": -17.6982097
+      }
+    },
+    {
+      "attributes": {
+        "FID": 85,
+        "Descripcio": "Carrera Ingeniería Agrícola (Montero)",
+        "CodEdif": " ",
+        "Latitud": -17.319111,
+        "Longitud": -63.262142,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Agrícola",
+        "Localidad": "Montero"
+      },
+      "geometry": {
+        "x": -63.262141999999997,
+        "y": -17.319110999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 86,
+        "Descripcio": "Carrera Ingeniería Forestal",
+        "CodEdif": " ",
+        "Latitud": -17.699676,
+        "Longitud": -63.148063,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Foresta",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.148063399999998,
+        "y": -17.699675800000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 87,
+        "Descripcio": "Decanatura Facultad de Ciencias Contables, Auditoría, Sistemas de Control de Gestión y Finanzas",
+        "CodEdif": " ",
+        "Latitud": -17.776395,
+        "Longitud": -63.194033,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca Fac. Cs. Contaduria",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194032999999997,
+        "y": -17.776395000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 88,
+        "Descripcio": "Carrea de Contaduría Pública",
+        "CodEdif": " ",
+        "Latitud": -17.776306,
+        "Longitud": -63.194177,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Contad. Pública",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194177000000003,
+        "y": -17.776306000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 89,
+        "Descripcio": "Carrera de Información y Control de Gestión",
+        "CodEdif": " ",
+        "Latitud": -17.776704,
+        "Longitud": -63.193857,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Infor. y Control de Gest.",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193857000000001,
+        "y": -17.776703999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 90,
+        "Descripcio": "Decanatura Facultad de Ciencias de la Salud Humana",
+        "CodEdif": " ",
+        "Latitud": -17.774857,
+        "Longitud": -63.197753,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca Fac. de Cs. Salu Hum.",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197752999999999,
+        "y": -17.774857000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 91,
+        "Descripcio": "Carrera Enfermería",
+        "CodEdif": " ",
+        "Latitud": -17.774909,
+        "Longitud": -63.197662,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Enfermeria",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197662000000001,
+        "y": -17.774909000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 92,
+        "Descripcio": "Carrera de Medicina",
+        "CodEdif": " ",
+        "Latitud": -17.77525,
+        "Longitud": -63.198152,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Medicina",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.198152,
+        "y": -17.77525
+      }
+    },
+    {
+      "attributes": {
+        "FID": 93,
+        "Descripcio": "Carrera de Odontología",
+        "CodEdif": " ",
+        "Latitud": -17.774964,
+        "Longitud": -63.198322,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Odontología",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.198321999999997,
+        "y": -17.774964000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 94,
+        "Descripcio": "Decanatura Facultad de Ciencias del Hábitat, Diseño y Arte",
+        "CodEdif": " ",
+        "Latitud": -17.770112,
+        "Longitud": -63.191995,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca Fac. de Cs. Habitad",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191995499999997,
+        "y": -17.7701119
+      }
+    },
+    {
+      "attributes": {
+        "FID": 95,
+        "Descripcio": "Carrera de Arquitectura",
+        "CodEdif": " ",
+        "Latitud": -17.770101,
+        "Longitud": -63.192009,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Arquitectura",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.1920085,
+        "y": -17.770101100000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 96,
+        "Descripcio": "Carrera de Arte",
+        "CodEdif": " ",
+        "Latitud": -17.77992,
+        "Longitud": -63.183385,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Arte",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.183385309999998,
+        "y": -17.779919929999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 97,
+        "Descripcio": "Carrera de Diseño Integral",
+        "CodEdif": " ",
+        "Latitud": -17.769779,
+        "Longitud": -63.192049,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Diseño Integral",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192048800000002,
+        "y": -17.769779199999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 98,
+        "Descripcio": "Carrera de Planificación Territorial",
+        "CodEdif": " ",
+        "Latitud": -17.769777,
+        "Longitud": -63.191777,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Plani. Territorial",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191776500000003,
+        "y": -17.769777300000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 99,
+        "Descripcio": "Decanatura Facultad Integral del Chaco (FICH)",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Decanatura FICH",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 100,
+        "Descripcio": "Carrera de Administración de Empresas",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Administración",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 101,
+        "Descripcio": "Carrera de Ciencias de la Educación",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cs. de la Educacion",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 102,
+        "Descripcio": "Carrera de Contaduría Pública",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cont. Pública",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 103,
+        "Descripcio": "Carrera de Derecho",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Derecho",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 104,
+        "Descripcio": "Carrera de Enfermería",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Enfermería",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 105,
+        "Descripcio": "Carrera de Ingeniería Industrial",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Industrial",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 106,
+        "Descripcio": "Carrera de Ingeniería Informática",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Informatica",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 107,
+        "Descripcio": "Carrera de Ingeniería del Petróleo y Gas Natural",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. del Petroleo y Gas",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 108,
+        "Descripcio": "Carrera de Ingeniería en Agropecuaria",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. en Agropecuaria",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 109,
+        "Descripcio": "Carrera de Ingeniería en Sistemas",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. En Sistema",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 110,
+        "Descripcio": "Carrera de Monitoreo Socioambiental",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Moni. Socio Amb.",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 111,
+        "Descripcio": "Carrera de Odontología",
+        "CodEdif": " ",
+        "Latitud": -20.033085,
+        "Longitud": -63.527962,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Odontología",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527962000000002,
+        "y": -20.033085
+      }
+    },
+    {
+      "attributes": {
+        "FID": 112,
+        "Descripcio": "Decanatura Facultad Integral del Noreste (FINE)",
+        "CodEdif": " ",
+        "Latitud": -16.910514,
+        "Longitud": -62.621272,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca Facultad FINE",
+        "Localidad": "San Julian"
+      },
+      "geometry": {
+        "x": -62.621271999999998,
+        "y": -16.910513999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 113,
+        "Descripcio": "Carrera de Ciencias de la Educación",
+        "CodEdif": " ",
+        "Latitud": -16.910514,
+        "Longitud": -62.621272,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cs. de la Educacion",
+        "Localidad": "San Julian"
+      },
+      "geometry": {
+        "x": -62.621271999999998,
+        "y": -16.910513999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 114,
+        "Descripcio": "Carrera de Contaduría Pública",
+        "CodEdif": " ",
+        "Latitud": -16.910514,
+        "Longitud": -62.621272,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cont. Pública",
+        "Localidad": "San Julian"
+      },
+      "geometry": {
+        "x": -62.621271999999998,
+        "y": -16.910513999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 115,
+        "Descripcio": "Carrera de Enfermería",
+        "CodEdif": " ",
+        "Latitud": -16.910514,
+        "Longitud": -62.621272,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Enfermería",
+        "Localidad": "San Julian"
+      },
+      "geometry": {
+        "x": -62.621271999999998,
+        "y": -16.910513999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 116,
+        "Descripcio": "Carrera de Ing. Agropecuaria",
+        "CodEdif": " ",
+        "Latitud": -16.910514,
+        "Longitud": -62.621272,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ingeniería Agro",
+        "Localidad": "San Julian"
+      },
+      "geometry": {
+        "x": -62.621271999999998,
+        "y": -16.910513999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 117,
+        "Descripcio": "Decanatura Facultad de Ingeniería en Ciencias de la Computación y Telecomunicaciones (FICCT)",
+        "CodEdif": " ",
+        "Latitud": -17.77613,
+        "Longitud": -63.19499,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Decanatura FICCT",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194989999999997,
+        "y": -17.776129999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 118,
+        "Descripcio": "Carrera de Ingeniería Informática",
+        "CodEdif": " ",
+        "Latitud": -17.77613,
+        "Longitud": -63.19496,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Informatica",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194960000000002,
+        "y": -17.776129999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 119,
+        "Descripcio": "Carrera de Ingeniería en Redes y Telecomunicaciones",
+        "CodEdif": " ",
+        "Latitud": -17.77613,
+        "Longitud": -63.19509,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. en Redes y Telf.",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.19509,
+        "y": -17.776129999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 120,
+        "Descripcio": "Carrera de Ingeniería en Sistemas",
+        "CodEdif": " ",
+        "Latitud": -17.77613,
+        "Longitud": -63.1951,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. en Sistema",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195099999999996,
+        "y": -17.776129999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 121,
+        "Descripcio": "Decanatura Facultad Integral Chiquitana (FAICHI)",
+        "CodEdif": " ",
+        "Latitud": -16.384384,
+        "Longitud": -60.967465,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca FAICHI",
+        "Localidad": "San Ignacio"
+      },
+      "geometry": {
+        "x": -60.967464999999997,
+        "y": -16.384384000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 122,
+        "Descripcio": "Carrera de Contaduría Pública",
+        "CodEdif": " ",
+        "Latitud": -16.38435,
+        "Longitud": -60.96771,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cont Pública",
+        "Localidad": "San Ignacio"
+      },
+      "geometry": {
+        "x": -60.967709999999997,
+        "y": -16.384350000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 123,
+        "Descripcio": "Carrera de Ing. Agropecuaria",
+        "CodEdif": " ",
+        "Latitud": -16.38452,
+        "Longitud": -60.96777,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ingeniería Agro",
+        "Localidad": "San Ignacio"
+      },
+      "geometry": {
+        "x": -60.967770000000002,
+        "y": -16.384519999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 124,
+        "Descripcio": "Carrera de Zootecnia",
+        "CodEdif": " ",
+        "Latitud": -16.38476,
+        "Longitud": -60.96768,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Zootecnia",
+        "Localidad": "San Ignacio"
+      },
+      "geometry": {
+        "x": -60.967680000000001,
+        "y": -16.38476
+      }
+    },
+    {
+      "attributes": {
+        "FID": 125,
+        "Descripcio": "Escalafón Docente",
+        "CodEdif": " ",
+        "Latitud": -17.777717,
+        "Longitud": -63.191628,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Escalafón Docente",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191628000000001,
+        "y": -17.777716999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 126,
+        "Descripcio": "Evaluación y Acreditación",
+        "CodEdif": " ",
+        "Latitud": -17.774557,
+        "Longitud": -63.192523,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Eval y Acreditación",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192523000000001,
+        "y": -17.774557000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 127,
+        "Descripcio": "Trámites y Registros",
+        "CodEdif": " ",
+        "Latitud": -17.777463,
+        "Longitud": -63.190315,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Trámites y Registros",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190314999999998,
+        "y": -17.777463000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 128,
+        "Descripcio": "Títulos",
+        "CodEdif": " ",
+        "Latitud": -17.7774,
+        "Longitud": -63.190319,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Títulos",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190319000000002,
+        "y": -17.7774
+      }
+    },
+    {
+      "attributes": {
+        "FID": 129,
+        "Descripcio": "Dirección de Investigación Científica e Innovación Tecnológica (DICiT)",
+        "CodEdif": " ",
+        "Latitud": -17.77618,
+        "Longitud": -63.190899,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Dire de Inv. (DICIT)",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190899000000002,
+        "y": -17.77618
+      }
+    },
+    {
+      "attributes": {
+        "FID": 130,
+        "Descripcio": "Escuela de Postgrado",
+        "CodEdif": " ",
+        "Latitud": -17.792669,
+        "Longitud": -63.181845,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Escuela de Postgrado",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.181845000000003,
+        "y": -17.792669
+      }
+    },
+    {
+      "attributes": {
+        "FID": 131,
+        "Descripcio": "Orientación Vocacional",
+        "CodEdif": " ",
+        "Latitud": -17.778778,
+        "Longitud": -63.192805,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Orientación Vocacional",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192805,
+        "y": -17.778777999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 132,
+        "Descripcio": "Corte Electoral Universitaria",
+        "CodEdif": " ",
+        "Latitud": -17.777776,
+        "Longitud": -63.192049,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Corte Electoral Universitaria",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192048999999997,
+        "y": -17.777775999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 133,
+        "Descripcio": "Defensoría Universitaria",
+        "CodEdif": " ",
+        "Latitud": -17.778565,
+        "Longitud": -63.192848,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Defensoría Universitaria",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192847999999998,
+        "y": -17.778565
+      }
+    },
+    {
+      "attributes": {
+        "FID": 134,
+        "Descripcio": "Tribunal de Justicia Universitaria",
+        "CodEdif": " ",
+        "Latitud": -17.777524,
+        "Longitud": -63.192475,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Tribunal de  Justicia Unive",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192475000000002,
+        "y": -17.777524
+      }
+    },
+    {
+      "attributes": {
+        "FID": 135,
+        "Descripcio": "Instituto de Capacitación Popular",
+        "CodEdif": " ",
+        "Latitud": -17.777668,
+        "Longitud": -63.165449,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "ICAP",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.165449000000002,
+        "y": -17.777667999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 136,
+        "Descripcio": "Instituto de Investigación de la Facultad de Humanidades (INIFH)",
+        "CodEdif": " ",
+        "Latitud": -17.774209,
+        "Longitud": -63.196905,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "INIFH",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196905000000001,
+        "y": -17.774208999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 137,
+        "Descripcio": "Instituto de Investigaciones Agrícolas El Vallecito",
+        "CodEdif": " ",
+        "Latitud": -17.708482,
+        "Longitud": -63.147389,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Inst Inv. Vallecito",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.147388999999997,
+        "y": -17.708482
+      }
+    },
+    {
+      "attributes": {
+        "FID": 138,
+        "Descripcio": "Instituto de Investigaciones Económicas y Sociales José Ortíz Mercado",
+        "CodEdif": " ",
+        "Latitud": -17.774241,
+        "Longitud": -63.193981,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Inst Inv. Eco. Soc.",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.193981000000001,
+        "y": -17.774241
+      }
+    },
+    {
+      "attributes": {
+        "FID": 139,
+        "Descripcio": "Instituto de Investigaciones Forestales",
+        "CodEdif": " ",
+        "Latitud": -17.819368,
+        "Longitud": -63.18146,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Inst Inv. Forestal",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.181460000000001,
+        "y": -17.819368000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 140,
+        "Descripcio": "Museo de Historia",
+        "CodEdif": " ",
+        "Latitud": -17.782958,
+        "Longitud": -63.183188,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Museo Historia",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.183188000000001,
+        "y": -17.782958000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 141,
+        "Descripcio": "Museo de Historia Natural Noel Kempff Mercado",
+        "CodEdif": " ",
+        "Latitud": -17.792665,
+        "Longitud": -63.18189,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Museo Noel Kempff",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.181890000000003,
+        "y": -17.792665
+      }
+    },
+    {
+      "attributes": {
+        "FID": 142,
+        "Descripcio": "Federación Universitaria de Profesores (FUP)",
+        "CodEdif": " ",
+        "Latitud": -17.774332,
+        "Longitud": -63.19259,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "FUP",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192590000000003,
+        "y": -17.774332000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 143,
+        "Descripcio": "Federacion Universitaria Local (FUL)",
+        "CodEdif": " ",
+        "Latitud": -17.778436,
+        "Longitud": -63.192302,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "FUL",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192301999999998,
+        "y": -17.778435999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 144,
+        "Descripcio": "Sindicato de Trabajadores Universitario (STU)",
+        "CodEdif": " ",
+        "Latitud": -17.779757,
+        "Longitud": -63.190906,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "STU",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190905999999998,
+        "y": -17.779757
+      }
+    },
+    {
+      "attributes": {
+        "FID": 145,
+        "Descripcio": "Decanatura Facultad Integral de Ichilo (FINI)",
+        "CodEdif": " ",
+        "Latitud": -17.396969,
+        "Longitud": -63.877942,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca FINI",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.877941999999997,
+        "y": -17.396968999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 146,
+        "Descripcio": "Carrera de Administración de Empresas",
+        "CodEdif": " ",
+        "Latitud": -17.397058,
+        "Longitud": -63.878022,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Administración",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.878022000000001,
+        "y": -17.397058000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 147,
+        "Descripcio": "Carrera de Ciencias de la Educación",
+        "CodEdif": " ",
+        "Latitud": -17.397019,
+        "Longitud": -63.878004,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cs de la Educacion",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.878003999999997,
+        "y": -17.397019
+      }
+    },
+    {
+      "attributes": {
+        "FID": 148,
+        "Descripcio": "Carrera de Contaduría Pública",
+        "CodEdif": " ",
+        "Latitud": -17.396911,
+        "Longitud": -63.87794,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cont. Pública",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.877940000000002,
+        "y": -17.396910999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 149,
+        "Descripcio": "Carrera de Derecho",
+        "CodEdif": " ",
+        "Latitud": -17.396943,
+        "Longitud": -63.877957,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Derecho",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.877957000000002,
+        "y": -17.396943
+      }
+    },
+    {
+      "attributes": {
+        "FID": 150,
+        "Descripcio": "Carrera de Enfermería",
+        "CodEdif": " ",
+        "Latitud": -17.396996,
+        "Longitud": -63.877983,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Enfermería",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.877983,
+        "y": -17.396996000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 151,
+        "Descripcio": "Carrera de Ingeniería Agropecuaria",
+        "CodEdif": " ",
+        "Latitud": -17.396933,
+        "Longitud": -63.877921,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Agropecuaria",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.877921000000001,
+        "y": -17.396933000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 152,
+        "Descripcio": "Carrera de Ingeniería Comercial",
+        "CodEdif": " ",
+        "Latitud": -17.39706,
+        "Longitud": -63.878011,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Comercial",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.878011000000001,
+        "y": -17.39706
+      }
+    },
+    {
+      "attributes": {
+        "FID": 153,
+        "Descripcio": "Carrera de Ingeniería Financiera",
+        "CodEdif": " ",
+        "Latitud": -17.39701,
+        "Longitud": -63.87796,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Financiera",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.877960000000002,
+        "y": -17.397010000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 154,
+        "Descripcio": "Carrera de Ingeniería Petrolera",
+        "CodEdif": " ",
+        "Latitud": -17.39692,
+        "Longitud": -63.8779,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Petrolera",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.877899999999997,
+        "y": -17.396920000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 155,
+        "Descripcio": "Carrera de Ingeniería en Sistemas",
+        "CodEdif": " ",
+        "Latitud": -17.396945,
+        "Longitud": -63.877933,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. en Sistema",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.877932999999999,
+        "y": -17.396944999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 156,
+        "Descripcio": "Carrera de Medicina Veterinaria y Zootécnica",
+        "CodEdif": " ",
+        "Latitud": -17.396946,
+        "Longitud": -63.877913,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Med. Veterinaria",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.877912999999999,
+        "y": -17.396946
+      }
+    },
+    {
+      "attributes": {
+        "FID": 157,
+        "Descripcio": "Decanatura Facultad de Ciencias Económicas y Empresariales",
+        "CodEdif": " ",
+        "Latitud": -17.776131,
+        "Longitud": -63.196476,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca Fac de Cs. Eco",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.1964764723635,
+        "y": -17.776131240883299
+      }
+    },
+    {
+      "attributes": {
+        "FID": 158,
+        "Descripcio": "Carrera de Administración de Empresas",
+        "CodEdif": " ",
+        "Latitud": -17.776168,
+        "Longitud": -63.196507,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Administración",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196506800545201,
+        "y": -17.776168305964401
+      }
+    },
+    {
+      "attributes": {
+        "FID": 159,
+        "Descripcio": "Carrera de Comercio Internacional",
+        "CodEdif": " ",
+        "Latitud": -17.77553,
+        "Longitud": -63.195601,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Comercio Intern",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195601000000003,
+        "y": -17.77553
+      }
+    },
+    {
+      "attributes": {
+        "FID": 160,
+        "Descripcio": "Carrera de Economía",
+        "CodEdif": " ",
+        "Latitud": -17.776116,
+        "Longitud": -63.196581,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Economía",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196581231840199,
+        "y": -17.7761159458572
+      }
+    },
+    {
+      "attributes": {
+        "FID": 161,
+        "Descripcio": "Carrera de Ingeniería Comercial",
+        "CodEdif": " ",
+        "Latitud": -17.776414,
+        "Longitud": -63.197038,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ingeniería Come",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197037529613397,
+        "y": -17.7764140652374
+      }
+    },
+    {
+      "attributes": {
+        "FID": 162,
+        "Descripcio": "Carrera de Ingeniería Financiera",
+        "CodEdif": " ",
+        "Latitud": -17.776709,
+        "Longitud": -63.196728,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ingeniería Fina",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.196728319613698,
+        "y": -17.776708511814402
+      }
+    },
+    {
+      "attributes": {
+        "FID": 163,
+        "Descripcio": "Decanatura Facultad de Ciencias Exactas y Tecnología",
+        "CodEdif": " ",
+        "Latitud": -17.775455,
+        "Longitud": -63.195742,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Deca FCET",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195742000000003,
+        "y": -17.775455000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 164,
+        "Descripcio": "Carrera de Ingeniería Ambiental",
+        "CodEdif": " ",
+        "Latitud": -17.775515,
+        "Longitud": -63.195705,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Ambiental",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195704999999897,
+        "y": -17.775514999999899
+      }
+    },
+    {
+      "attributes": {
+        "FID": 165,
+        "Descripcio": "Carrera de Ingeniería Civil",
+        "CodEdif": " ",
+        "Latitud": -17.775519,
+        "Longitud": -63.195708,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Civil",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195708000000003,
+        "y": -17.7755189999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 166,
+        "Descripcio": "Carrera de Ingeniería Electromecánica",
+        "CodEdif": " ",
+        "Latitud": -17.775528,
+        "Longitud": -63.195659,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Electromecanica",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.1956589999999,
+        "y": -17.775528000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 167,
+        "Descripcio": "Carrera de Ingeniería Industrial",
+        "CodEdif": " ",
+        "Latitud": -17.775283,
+        "Longitud": -63.194561,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Industrial",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.194561,
+        "y": -17.775283000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 168,
+        "Descripcio": "Carrera de Ingeniería Petrolera",
+        "CodEdif": " ",
+        "Latitud": -17.775515,
+        "Longitud": -63.195688,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Petrolera",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195687999999897,
+        "y": -17.775514999999899
+      }
+    },
+    {
+      "attributes": {
+        "FID": 169,
+        "Descripcio": "Carrera de Ingeniería Química",
+        "CodEdif": " ",
+        "Latitud": -17.775459,
+        "Longitud": -63.195744,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. Química",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195743999999898,
+        "y": -17.775459000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 170,
+        "Descripcio": "Carrera de Ingeniería de Alimentos",
+        "CodEdif": " ",
+        "Latitud": -17.775514,
+        "Longitud": -63.195702,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. de Alimentos",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195701999999898,
+        "y": -17.775514000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 171,
+        "Descripcio": "Carrera de Ingeniería de Control de Procesos",
+        "CodEdif": " ",
+        "Latitud": -17.775511,
+        "Longitud": -63.195682,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Ing. de Control Proc.",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195681999999898,
+        "y": -17.775511000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 172,
+        "Descripcio": "Decanatura Facultad de Ciencias Farmacéuticas y Bioquímicas",
+        "CodEdif": " ",
+        "Latitud": -17.774565,
+        "Longitud": -63.197728,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Decanatura FBF",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197727748711799,
+        "y": -17.7745653060887
+      }
+    },
+    {
+      "attributes": {
+        "FID": 173,
+        "Descripcio": "Carrera de Bioquímica",
+        "CodEdif": " ",
+        "Latitud": -17.774591,
+        "Longitud": -63.197938,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Bioquímica",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197938418703302,
+        "y": -17.774591042247501
+      }
+    },
+    {
+      "attributes": {
+        "FID": 174,
+        "Descripcio": "Carrera de Farmacia",
+        "CodEdif": " ",
+        "Latitud": -17.77458,
+        "Longitud": -63.197912,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Farmacia",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197911601605597,
+        "y": -17.774580346890598
+      }
+    },
+    {
+      "attributes": {
+        "FID": 175,
+        "Descripcio": "Decanatura Facultad de Ciencias Jurídicas, Políticas, Sociales y Relaciones Internacionales",
+        "CodEdif": " ",
+        "Latitud": -17.775991,
+        "Longitud": -63.198423,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Decanatura Cs, Juridicas",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.1984233235722,
+        "y": -17.775991233084
+      }
+    },
+    {
+      "attributes": {
+        "FID": 176,
+        "Descripcio": "Carrera de Ciencias Políticas y Administración Pública",
+        "CodEdif": " ",
+        "Latitud": -17.775834,
+        "Longitud": -63.198232,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Cs. Política",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.1982315456343,
+        "y": -17.775833514045399
+      }
+    },
+    {
+      "attributes": {
+        "FID": 177,
+        "Descripcio": "Carrera de Derecho",
+        "CodEdif": " ",
+        "Latitud": -17.776012,
+        "Longitud": -63.198332,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Derecho",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.198332128469097,
+        "y": -17.776011666310001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 178,
+        "Descripcio": "Carrera de Relaciones Internacionales",
+        "CodEdif": " ",
+        "Latitud": -17.77603,
+        "Longitud": -63.198106,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Relaciones Inte",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.198106152367203,
+        "y": -17.776029545380499
+      }
+    },
+    {
+      "attributes": {
+        "FID": 179,
+        "Descripcio": "Carrera de Trabajo Social",
+        "CodEdif": " ",
+        "Latitud": -17.775933,
+        "Longitud": -63.19846,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Carr Trabajo Social",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.198459533392999,
+        "y": -17.775933126086301
+      }
+    },
+    {
+      "attributes": {
+        "FID": 180,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Auditoria Financiera o Contaduría Pública",
+        "CodEdif": " ",
+        "Latitud": -17.7795,
+        "Longitud": -63.1912,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Cont. Publica",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.191200000000002,
+        "y": -17.779499999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 181,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Ciencias Agrícolas",
+        "CodEdif": " ",
+        "Latitud": -17.7736,
+        "Longitud": -63.1667,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Cs. Agricilas",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.166699999999999,
+        "y": -17.773599999999998
+      }
+    },
+    {
+      "attributes": {
+        "FID": 182,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Ciencias de la Salud Humana",
+        "CodEdif": " ",
+        "Latitud": -17.7826,
+        "Longitud": -63.1791,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Cs. Salud",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.179099999999998,
+        "y": -17.782599999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 183,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Ciencias del Hábitat, Diseño y Arte",
+        "CodEdif": " ",
+        "Latitud": -17.7701,
+        "Longitud": -63.1921,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Cs. Habitad",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192100000000003,
+        "y": -17.770099999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 184,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Ciencias Económicas y Empresariales",
+        "CodEdif": " ",
+        "Latitud": -17.7905,
+        "Longitud": -63.1791,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Cs. Economicas",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.179099999999998,
+        "y": -17.790500000000002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 185,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Ciencias Exactas y Tecnología",
+        "CodEdif": " ",
+        "Latitud": -17.778,
+        "Longitud": -63.1905,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Cs. Exactas y Tec.",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.1905,
+        "y": -17.777999999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 186,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Ciencias Farmacéuticas y Bioquímicas",
+        "CodEdif": " ",
+        "Latitud": -17.7746,
+        "Longitud": -63.1977,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Cs. Farmacia y Bio.",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.197699999999998,
+        "y": -17.7746
+      }
+    },
+    {
+      "attributes": {
+        "FID": 187,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Ciencias Jurídicas, Políticas, Sociales y RR.II.",
+        "CodEdif": " ",
+        "Latitud": -17.7792,
+        "Longitud": -63.1926,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Cs. Juricas",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.192599999999999,
+        "y": -17.779199999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 188,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Ciencias Veterinarias y Zootecnia",
+        "CodEdif": " ",
+        "Latitud": -17.7771,
+        "Longitud": -63.1958,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Veternaria",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195799999999998,
+        "y": -17.777100000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 189,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Humanidades",
+        "CodEdif": " ",
+        "Latitud": -17.7763,
+        "Longitud": -63.1909,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Humanidades",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.190899999999999,
+        "y": -17.776299999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 190,
+        "Descripcio": "Unidad de Postgrado de la Facultad de Ingeniería en Ciencias de la Computación y Telecomunicacione",
+        "CodEdif": " ",
+        "Latitud": -17.7741,
+        "Longitud": -63.1953,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Cs. Computacion",
+        "Localidad": "Santa Cruz"
+      },
+      "geometry": {
+        "x": -63.195300000000003,
+        "y": -17.774100000000001
+      }
+    },
+    {
+      "attributes": {
+        "FID": 191,
+        "Descripcio": "Unidad de Postgrado de la Facultad Integral de Ichilo",
+        "CodEdif": " ",
+        "Latitud": -17.3967,
+        "Longitud": -63.8787,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Ichilo",
+        "Localidad": "Yapacani"
+      },
+      "geometry": {
+        "x": -63.878700000000002,
+        "y": -17.396699999999999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 192,
+        "Descripcio": "Unidad de Postgrado de la Facultad Integral del Chaco",
+        "CodEdif": " ",
+        "Latitud": -20.0334,
+        "Longitud": -63.5279,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Chaco",
+        "Localidad": "Camiri"
+      },
+      "geometry": {
+        "x": -63.527900000000002,
+        "y": -20.0334
+      }
+    },
+    {
+      "attributes": {
+        "FID": 193,
+        "Descripcio": "Unidad de Postgrado de la Facultad Integral del Noreste",
+        "CodEdif": " ",
+        "Latitud": -16.9105,
+        "Longitud": -62.6208,
+        "Grupo": "Oficinas Administrativas",
+        "Sigla": "Postgrado Fac. Noroeste",
+        "Localidad": "San Julian"
+      },
+      "geometry": {
+        "x": -62.620800000000003,
+        "y": -16.910499999999999
+      }
+    }
+  ]
+}
